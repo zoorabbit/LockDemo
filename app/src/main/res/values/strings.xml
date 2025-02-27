@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LockDemo</string>
+    <string name="slide_up">上滑解锁</string>
+    <string name="slide_down">下滑解锁</string>
+</resources>
