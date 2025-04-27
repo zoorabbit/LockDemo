@@ -1,3 +1,4 @@
+##DeepWiki: https://deepwiki.com/zoorabbit/LockDemo
 ## 1. 需求描述
 
 项目使用定制 **Android** 系统，需求是顶部窗帘能上下拉完成解锁锁屏，开始考虑滑动效果 准备使用 **DrawerLayout** 或者 **BottomSheetDialog** 来实现，最后发现还是 自定义 **View** 来实现最简单。
