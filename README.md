@@ -1,6 +1,8 @@
-##DeepWiki: https://deepwiki.com/zoorabbit/LockDemo
-## 1. 需求描述
+# LockDemo
+The LockDemo repository is an Android application that demonstrates a custom lock screen implementation controlled by vertical swipe gestures. It simulates a window curtain that can be pulled up to unlock or down to lock the screen, creating an intuitive and visually appealing user experience.
+For detailed information about the architectural patterns used, see [DeepWiki](https://deepwiki.com/zoorabbit/LockDeme).
 
+## 1. 需求描述
 项目使用定制 **Android** 系统，需求是顶部窗帘能上下拉完成解锁锁屏，开始考虑滑动效果 准备使用 **DrawerLayout** 或者 **BottomSheetDialog** 来实现，最后发现还是 自定义 **View** 来实现最简单。
 
 <img src="./LockDemo.gif" alt="" width="50%" />
